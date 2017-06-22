@@ -11,6 +11,9 @@
         <mark key="]" line="10" column="19" />
         <mark key="." line="10" column="19" />
       </file>
+      <file name="$USER_HOME$/Desktop/Larasite/app/Http/Controllers/TaskController.php" timestamp="1498100938306">
+        <mark key="[" line="17" column="9" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/Laravel/larasite/composer.json" timestamp="1498092177641">
         <mark key="[" line="48" column="29" />
       </file>
@@ -26,12 +29,16 @@
       <file name="/a.sql" timestamp="1498093965241">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/Larasite/vendor/laravel/framework/src/Illuminate/Support/Facades/Schema.php" timestamp="1498097642711" />
       <file name="$USER_HOME$/Desktop/Larasite/database/migrations/2014_10_12_100000_create_password_resets_table.php" timestamp="1498098855122">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/Larasite/database/migrations/2014_10_12_000000_create_users_table.php" timestamp="1498093147544" />
-      <file name="/dummy.sql" timestamp="1498099736718">
+      <file name="$USER_HOME$/Desktop/Larasite/routes/web.php" timestamp="1498100007941">
+        <mark key="[" line="15" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1498099920365">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dummy.sql" timestamp="1498100595918">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Larasite/config/app.php" timestamp="1498097860895">
@@ -74,6 +81,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
