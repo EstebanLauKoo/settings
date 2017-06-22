@@ -6,6 +6,9 @@
       <file name="$USER_HOME$/PhpstormProjects/Laravel/larasite/resources/views/welcome.blade.php" timestamp="1498027507517">
         <mark key="[" line="57" column="37" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/Laravel/larasite/composer.json" timestamp="1498092177641">
+        <mark key="[" line="48" column="29" />
+      </file>
       <file name="/text_editor_file" timestamp="1498027337013">
         <mark key="[" line="0" column="0" />
       </file>
@@ -22,7 +25,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/Laravel/larasite/routes/web.php" timestamp="1498091308362">
+      <file name="$USER_HOME$/PhpstormProjects/Laravel/larasite/routes/web.php" timestamp="1498092160717">
         <mark key="[" line="28" column="3" />
       </file>
     </filemarks>
