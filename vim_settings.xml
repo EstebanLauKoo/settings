@@ -9,7 +9,12 @@
       <file name="/text_editor_file" timestamp="1498027337013">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1497939997174">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1498090573722">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/dummy.sql" timestamp="1498090997111">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/01-2017-VW-Class-Content/MW/15-sequelize/15.2-sequelize-CRUD/Activities/2-Sequelize-Create-Read/2-Sequelize-Create-Read-Solved/public/view.html" timestamp="1497939486526">
@@ -17,11 +22,17 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/Laravel/larasite/routes/web.php" timestamp="1498091308362">
+        <mark key="[" line="28" column="3" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
+      <register name="1" type="4">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="&quot;" type="4">
-        <text />
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -40,6 +51,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
