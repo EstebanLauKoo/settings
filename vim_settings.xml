@@ -6,9 +6,21 @@
       <file name="$USER_HOME$/PhpstormProjects/Laravel/larasite/resources/views/welcome.blade.php" timestamp="1498027507517">
         <mark key="[" line="57" column="37" />
       </file>
+      <file name="/a.dummy" timestamp="1498093225683">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Larasite/database/migrations/2017_06_22_010004_create_tasks_table.php" timestamp="1498093464433">
+        <mark key="[" line="15" column="9" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Larasite/.env" timestamp="1498092817089">
+        <mark key="[" line="10" column="18" />
+        <mark key="]" line="10" column="19" />
+        <mark key="." line="10" column="19" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/Laravel/larasite/composer.json" timestamp="1498092177641">
         <mark key="[" line="48" column="29" />
       </file>
+      <file name="$USER_HOME$/Desktop/Larasite/database/migrations/2014_10_12_000000_create_users_table.php" timestamp="1498093147544" />
       <file name="/text_editor_file" timestamp="1498027337013">
         <mark key="[" line="0" column="0" />
       </file>
@@ -35,10 +47,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">Cg==</text>
+        <text>a</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>a</text>
       </register>
     </registers>
     <search>
